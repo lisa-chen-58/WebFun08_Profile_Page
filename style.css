@@ -189,7 +189,9 @@ h1{
 /* ------------- YOUR CONNECTIONS ----------------- */
 
 #view-more{
-    border-top: 3px solid lightgrey;
-    padding: 10px 5%;
-    margin-top: 10px;
+    border-right: 3px solid lightgrey;
+    border-left: 3px solid lightgrey;
+    border-bottom: 3px solid lightgrey;
+    margin: 10px 0px 25px 0px;
+    padding: 27px 60.5% 27px 5%;
 }
